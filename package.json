@@ -1,0 +1,25 @@
+{
+  "name": "sample-express-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bemmy2005/sample-express-login.git"
+  },
+  "keywords": [],
+  "author": "Emmanuel Bugingo <emmanuelbugingo@stu.xmu.edu.cn>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bemmy2005/sample-express-login/issues"
+  },
+  "homepage": "https://github.com/bemmy2005/sample-express-login#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4",
+    "socket.io": "^2.2.0"
+  }
+}

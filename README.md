@@ -1,2 +1,1 @@
-# sample-express-login
-Login for express and mysql
+# node-express-app-structure
