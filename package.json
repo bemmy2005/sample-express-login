@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/bemmy2005/sample-express-login#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pug": "^2.0.4",
     "socket.io": "^2.2.0"
   }
